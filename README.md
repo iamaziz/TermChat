@@ -18,8 +18,7 @@ https://chat.openai.com/g/g-plQMZDvgZ-terminalgpt
 
 <img width="1506" alt="image" src="https://github.com/iamaziz/TermChat/assets/3298308/322b02ad-e399-4624-b670-5bfbc3747c56">
 <img width="1508" alt="image" src="https://github.com/iamaziz/TermChat/assets/3298308/6ba003b3-0da6-4677-b16b-f4bd0fdc990c">
-
-
+<img width="731" alt="image" src="https://github.com/iamaziz/TerminalGPT/assets/3298308/43c9b48c-d166-48a1-890e-dab2830c2bd8">
 
 
 
